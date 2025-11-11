@@ -1,4 +1,4 @@
-# OLIMPÍADA DE PROGRAMAÇÃO
+<div align="center"><h1>OLIMPÍADA DE PROGRAMAÇÃO</h1></div>
 <div align="center"><i>UNIESP - 29/10/2025</i></div>
 <div align="center"><i>Posição: 2º lugar</i></div>
 
